@@ -1,1 +1,2 @@
-3 <- こいつをrevertのrevertしたい
+3 <- こいつをrevertのrevertしたい <- revertのrevertをした後に同じ行を編集
+3-2
